@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1458503047 source:d:\users\utilisateur\gitstage\mousetrap\main.cpp
+	<iostream>
+	<tchar.h>
+	<windows.h>
+
+1441056853 source:d:\users\utilisateur\gitstage\mousetrap\mousecapture.rc
+
